@@ -1,0 +1,7 @@
+Nota Fiscal
+Número de série: 064F4391
+Nome do Cliente: andrade
+Itens comprados:
+andrade                1 * 2200,00 = R$ 2200,00
+Data de Emissão: 03/09/2025 17:36:18
+Valor total de compra: 2200.0
