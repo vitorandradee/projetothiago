@@ -12,4 +12,4 @@ Matheus Moreira Alves da Costa-01809727
 
 joilder henrique godoy Castro da Rocha-01785329
 
-<img = src="https://github.com/vitorandradee/projetothiago/blob/main/WhatsApp%20Image%202025-09-24%20at%2010.39.32.jpeg" alt = "diagrama">
+<img = src="diagrama.jpeg.jpeg" alt = "diagrama">
